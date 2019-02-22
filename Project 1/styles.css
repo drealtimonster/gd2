@@ -1,10 +1,10 @@
 .card {max-width: 500px; margin: 0 auto}
-
+ h1{font-family: 'Staatliches', serif}
 img {
     max-width: 100%;}
-    title {}
+    
 body {
         
-font-family: 'Oswald', sans-serif;    }
+    font-family: 'Roboto', sans-serif;   }
        
     /* comments look like this */
