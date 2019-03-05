@@ -1,9 +1,10 @@
-.card {max-width: 500px; margin: 0 auto}
- h1{font-family: 'Slabo', serif;
-    font-color: purple}
+.card {max-width: 500px; margin: 0 auto; background-color: whitesmoke;}
+
 img {
     max-width: 100%;}
-    
+    title {
+        font-family: 'Slabo', serif;
+}
 body {
         
     font-family: 'Roboto', sans-serif;   }
