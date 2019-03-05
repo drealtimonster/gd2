@@ -1,0 +1,16 @@
+.card {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: whitesmoke;}
+img {
+        max-width: 500px;
+.button1 {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
