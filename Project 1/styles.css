@@ -1,16 +1,20 @@
-.card {
+.card{
         max-width: 800px;
         margin: 30px auto;
         background-color: #ffffff;}
 
-img {
+img{
     max-width: 100%;}
     title {
         font-family: 'Slabo', serif;
 
 }
-body {
-    padding: 15px 32px;    
+body{    
     font-family: 'Roboto', sans-serif;   }
-       
+p{margin-left: 10; margin-left: 10px;}
+
+h1 h2 h3 h4 h5 h6
+        {margin-left: 10; margin-left: 10px;
+        text-align: center;
+        }
     /* comments look like this */
