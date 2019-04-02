@@ -1,0 +1,30 @@
+/*.img-timeline 
+    background-image: url("TimelineArrow-01.png");
+    background-repeat: repeat-y;
+    position: absolute;
+	width: 30px;
+    display: inline;
+*/
+body {
+    background-image: url("TimelineArrow-01.png");
+    background-repeat: repeat-y;
+    position: relative;
+	width: 30px;
+    display: inline;
+}
+.card {
+    min-width: 200px;
+    max-width: 800px;
+    margin-left: 100px;
+    background-color: #000000;}
+body {
+    color: #ffffff;
+}
+svg {
+    max-width: 200px;
+    max-height: 200px;
+    position: relative;
+    }
+a {
+   color: #ffffff;   
+}
