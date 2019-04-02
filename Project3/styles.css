@@ -28,3 +28,7 @@ svg {
 a {
    color: #ffffff;   
 }
+img {
+    max-height: 500px;
+    max-width: 500px;
+}
