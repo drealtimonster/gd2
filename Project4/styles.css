@@ -51,7 +51,7 @@ a {
   'Abel', 'Kanit', san-serif;
 }
 img {
-  min-width: 375px;
+ width: 100%;
 }
 svg {
   height: 50px;
@@ -60,9 +60,11 @@ svg {
 .speakers {}
 p {
   line-height:1.25;
-  font-size: 16px
+  font-size: 16px;
+  padding-left: 30%;
+  padding-right: 20%;
 }
-.card {
+.site-wrapper {
   color: #59bdff;
   padding-top: 50px;
   margin-top: 0px;
@@ -115,6 +117,16 @@ p {
   margin: 3px;
 }
 .name {
+  font-family:'Montserrat', 'Oswald', 'Poppins', 'PT Sans',
+  'Titillium Web', 'Nunito', 'PT Sans Narrow',
+  'Rubik', 'Arimo', 'Arvo', 'Cabin', 'Fjalla One',
+  'Abel', 'Kanit', san-serif;
+  font-size: 50px;
+}
+img.speaker {
+  width: 35%;
+}
+h1 {
   font-family:'Montserrat', 'Oswald', 'Poppins', 'PT Sans',
   'Titillium Web', 'Nunito', 'PT Sans Narrow',
   'Rubik', 'Arimo', 'Arvo', 'Cabin', 'Fjalla One',
