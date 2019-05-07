@@ -144,3 +144,8 @@ h1 {
     font-size: 25px;
   }
 }
+@media (min-width: 800px) {
+  h1 {
+    font-size: 100px;
+  }
+}
